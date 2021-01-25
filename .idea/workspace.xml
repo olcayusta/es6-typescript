@@ -78,9 +78,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
         <item itemvalue="npm.start" />
         <item itemvalue="npm.dev2" />
-        <item itemvalue="npm.build" />
       </list>
     </recent_temporary>
   </component>
@@ -95,6 +95,7 @@
       <workItem from="1603219318509" duration="3082000" />
       <workItem from="1603223974625" duration="2818000" />
       <workItem from="1603295092950" duration="31000" />
+      <workItem from="1604418309658" duration="75000" />
     </task>
     <servers />
   </component>
@@ -105,6 +106,17 @@
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/index.js" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
 </project>
